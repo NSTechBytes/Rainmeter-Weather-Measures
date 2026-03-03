@@ -1,6 +1,5 @@
 ;============================================================
-;  NuraShade Skin
-;  Copyright (c) 2025 NuraShade
+;  Copyright (c) 2026 nstechbytes
 ;
 ;  Licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 ;  You are free to:

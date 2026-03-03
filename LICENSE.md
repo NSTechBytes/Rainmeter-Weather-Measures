@@ -1,4 +1,4 @@
-Copyright © 2025 NuraShade
+Copyright © 2026 nstechbytes
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>NuraShade Weather Measures</h1>
+  <h1>Rainmeter Weather Measures</h1>
   <p>A comprehensive weather forecasting solution for Rainmeter skins</p>
   
   <p>
@@ -11,7 +11,7 @@
 
 ## 🌤️ Overview
 
-NuraShade Weather Measures is a collection of Rainmeter configuration files that provide comprehensive weather forecasting capabilities using the Open-Meteo API. This package includes measures for current weather conditions, 7-day forecasts, and 7-hour hourly forecasts. Most numerical measures include both precise and rounded variants for flexible display options.
+Rainmeter Weather Measures is a collection of Rainmeter configuration files that provide comprehensive weather forecasting capabilities using the Open-Meteo API. This package includes measures for current weather conditions, 7-day forecasts, and 7-hour hourly forecasts. Most numerical measures include both precise and rounded variants for flexible display options.
 
 ## 📁 File Structure
 
@@ -453,5 +453,5 @@ This project is licensed under the Creative Commons Attribution-ShareAlike 3.0 U
 <hr>
 
 <div align="center">
-  Made with ❤️ by NuraShade
+  Made with ❤️ by nstechbytes
 </div>
